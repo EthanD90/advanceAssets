@@ -1,0 +1,41 @@
+<thead id="centerForm:assetListTable_head"><tr role="row"><th id="centerForm:assetListTable:j_idt63" class="ui-state-default" role="columnheader" scope="col"><span class="ui-column-title">
+Equipment
+</span></th><th id="centerForm:assetListTable:j_idt66" class="ui-state-default" role="columnheader" scope="col" style="display: none"><span class="ui-column-title">
+Manufacturer
+</span></th><th id="centerForm:assetListTable:j_idt69" class="ui-state-default" role="columnheader" scope="col" style="display: none"><span class="ui-column-title">
+Model No
+</span></th><th id="centerForm:assetListTable:j_idt72" class="ui-state-default" role="columnheader" scope="col" style="display: none"><span class="ui-column-title">
+Description
+</span></th><th id="centerForm:assetListTable:j_idt75" class="ui-state-default" role="columnheader" scope="col" style="display: none"><span class="ui-column-title">
+Asset No
+</span></th><th id="centerForm:assetListTable:j_idt78" class="ui-state-default" role="columnheader" scope="col" style="display: none"><span class="ui-column-title">
+Serial No
+</span></th><th id="centerForm:assetListTable:j_idt81" class="ui-state-default" role="columnheader" scope="col"><span class="ui-column-title"></span></th><th id="centerForm:assetListTable:j_idt85" class="ui-state-default" role="columnheader" scope="col" style="display: none"><span class="ui-column-title">
+Primary Tag
+</span></th><th id="centerForm:assetListTable:j_idt88" class="ui-state-default" role="columnheader" scope="col" style="display: none"><span class="ui-column-title">
+Secondary Tags
+</span></th><th id="centerForm:assetListTable:j_idt94" class="ui-state-default text-center" role="columnheader" scope="col"><span class="ui-column-title">
+On Site?
+</span></th><th id="centerForm:assetListTable:j_idt97" class="ui-state-default" role="columnheader" scope="col" style="display: none"><span class="ui-column-title">
+On Site?
+</span></th><th id="centerForm:assetListTable:j_idt100" class="ui-state-default text-center number" role="columnheader" scope="col"><span class="ui-column-title">
+Age (Years)
+</span></th><th id="centerForm:assetListTable:j_idt103" class="ui-state-default text-center" role="columnheader" scope="col"><span class="ui-column-title">
+Condition
+</span></th><th id="centerForm:assetListTable:j_idt108" class="ui-state-default" role="columnheader" scope="col" style="display: none"><span class="ui-column-title">
+Condition
+</span></th><th id="centerForm:assetListTable:j_idt111" class="ui-state-default text-center" role="columnheader" scope="col"><span class="ui-column-title">
+Under Warranty?
+</span></th><th id="centerForm:assetListTable:j_idt117" class="ui-state-default" role="columnheader" scope="col" style="display: none"><span class="ui-column-title">
+Under Warranty
+</span></th><th id="centerForm:assetListTable:j_idt120" class="ui-state-default" role="columnheader" scope="col" style="display: none"><span class="ui-column-title">
+Warranty Expiry Date
+</span></th><th id="centerForm:assetListTable:j_idt123" class="ui-state-default text-center number" role="columnheader" scope="col"><span class="ui-column-title">
+All Calls
+</span></th><th id="centerForm:assetListTable:j_idt126" class="ui-state-default text-center number" role="columnheader" scope="col"><span class="ui-column-title">
+Open Calls
+</span></th><th id="centerForm:assetListTable:j_idt129" class="ui-state-default text-right number" role="columnheader" scope="col"><span class="ui-column-title">
+Lifetime Spend
+</span></th><th id="centerForm:assetListTable:j_idt132" class="ui-state-default text-right number" role="columnheader" scope="col"><span class="ui-column-title">
+Nominal Replacement Cost
+</span></th></tr></thead>
