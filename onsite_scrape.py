@@ -130,13 +130,13 @@ for venue in venues:
 
     if venue == 2:
         cleaned_df = cleaned_df.copy()
-        cleaned_df['Venue'] = 'Surrey'
+        cleaned_df['Venue'] = 'Venue 1'
     elif venue == 3:
         cleaned_df = cleaned_df.copy()
-        cleaned_df['Venue'] = 'Chigwell'
+        cleaned_df['Venue'] = 'Venue 2'
     else:
         cleaned_df = cleaned_df.copy()
-        cleaned_df['Venue'] = 'Watford'
+        cleaned_df['Venue'] = 'Venue 3'
     cleaned_data.append(cleaned_df)
 
     driver.back() #<<< Steps the browser driver back to the venues table
