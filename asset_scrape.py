@@ -126,7 +126,7 @@ for venue in venues:
     list.
     __________________________________________________________________________
     """
-    cleaned_df = clean_advance_data(df)
+    cleaned_df = clean_data(df)
 
     if venue == 2:
         cleaned_df = cleaned_df.copy()
