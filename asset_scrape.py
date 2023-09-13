@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from selenium.webdriver.common.by import By
 from keycloak import KeycloakOpenID
 from bs4 import BeautifulSoup
-from data_cleaner import clean_advance_data
+from data_cleaner import clean_data
 
 # Initialise dotenv to enable parsing of .env file
 load_dotenv()
