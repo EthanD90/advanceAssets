@@ -1,6 +1,6 @@
 import pandas as pd
 
-def clean_advance_data(dataframe):
+def clean_data(dataframe):
     df = dataframe
 
     df['Manufacturer'] = df['Equipment'].str.extract(r'^(.*?) -')
